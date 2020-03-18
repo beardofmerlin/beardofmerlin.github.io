@@ -1,0 +1,163 @@
+[
+    {
+	"id":"history",
+	"title":"The Matrix",
+	"description":"<p>You escape the Matrix and can now observe it. <br><br>Pan by dragging and zoom by scrolling. Alternatively, use the controllers to the far right.</p>",
+	"focus_date":"1764-09-01",
+	"initial_zoom":"44",
+	"image_lane_height":50,
+	"events":[
+	    {
+		"id": "usa-currency-act",
+		"title": "The Currency Act",
+		"description": "Lorem ipsum dolor sit amet, 7/11 was a part-time job.",
+		"startdate": "1764-09-01 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-stamp-act",
+		"title": "The Stamp Act",
+		"description": "ahlolo",
+		"startdate": "1765-03-22 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-american-revolutionary-war",
+		"title": "The American Revolutionary War",
+		"description": "",
+		"startdate": "1775-04-19 12",
+		"enddate": "1783-09-03 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "sweden-union-and-security-act",
+		"title": "The Union and Security Act",
+		"description": "Swedish king Gustav III starts issuing his own money by creating a new institution: the Swedish debt office.",
+		"startdate": "1789-04-28 12",
+		"importance": "50",
+		"icon": "circle_blue.png"
+	    },
+	    {
+		"id": "sweden-gustaviii-assassination",
+		"title": "Gustav III is assassinated",
+		"description": "Swedish king Gustav III is assassinated by money-lender Captain Jacob Johan Anckarström, son of Lieutenant Colonel Jacob Johan Anckarström the Elder.",
+		"startdate": "1792-03-16 12",
+		"importance": "50",
+		"icon": "circle_blue.png"
+	    },
+	    {
+		"id": "usa-first-bank-chartered",
+		"title": "First Bank of the US is chartered",
+		"description": "First Bank of the United States is chartered for a term of 20 years",
+		"startdate": "1791-02-25 12",
+		"importance": "40",
+		"high_threshold": "43",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-first-bank-term-ends",
+		"title": "First Bank of the US term ends",
+		"description": "The bank's 20-year term ends without an approved charter renewal.",
+		"startdate": "1811-03-04 12",
+		"importance": "40",
+		"high_threshold": "43",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-first-bank-recharter-disapproved",
+		"title": "First Bank of the US's recharter is disapproved",
+		"description": "The recharter of First Bank of the United States is not approved by congress.",
+		"startdate": "1811-02-14 12",
+		"importance": "40",
+		"high_threshold": "43",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-war-of-1812",
+		"title": "The War of 1812",
+		"description": "The War of 1812 begins with events such as the <a href='https://en.wikipedia.org/wiki/Little_Belt_affair' target='_blank'>Little Belt Affair</a> shortly after the term of the First Bank of the United States ends and its recharter is disapproved by congress.",
+		"startdate": "1811-05-16 12",
+		"enddate": "1815-02-17 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-second-bank-chartered",
+		"title": "Second Bank of the US is chartered",
+		"description": "Second Bank of the United States is chartered for a term of 20 years",
+		"startdate": "1816-04-10 12",
+		"importance": "40",
+		"high_threshold": "43",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-panic-1819",
+		"title": "Panic of 1819",
+		"description": "The Panic of 1819 was a major financial crisis caused by the Second Bank of the United States through contraction of the money supply. As markets plummeted and people defaulted on their loans, state banks foreclosed on their mortgaged properties and transferred them to their creditor: the Second Bank of the United States.",
+		"startdate": "1818-07-15 12",
+		"enddate": "1821-12-31 12",
+		"importance": "50",
+		"date_display": "mo",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-andrew-jackson-elected",
+		"title": "Andrew Jackson is elected president of the US",
+		"description": "Andrew Jackson is elected president of the US",
+		"startdate": "1828-12-02 12",
+		"importance": "40",
+		"high_threshold": "43",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-bank-war",
+		"title": "The Bank War",
+		"description": "The struggle between the bankers seeking to recharter the Second Bank of the United States and Andrew Jackson who opposed them during his presidency is known as the Bank War.",
+		"startdate": "1829-03-04 12",
+		"enddate": "1837-03-04 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-second-bank-recharter-vetoed",
+		"title": "Second bank of the US's recharter is disapproved",
+		"description": "",
+		"startdate": "1832-07-10 12",
+		"importance": "40",
+		"high_threshold": "43",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-andrew-jackson-national-debt",
+		"title": "Andrew Jackson eliminates the national debt",
+		"description": "",
+		"startdate": "1835-01-01 12",
+		"importance": "40",
+		"high_threshold": "43",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-andrew-jackson-assassination-attempt",
+		"title": "Andrew Jackson survives assassination attempt",
+		"description": "",
+		"startdate": "1835-01-30 12",
+		"importance": "40",
+		"high_threshold": "43",
+		"icon": "circle_green.png"
+	    }
+	],
+	"legend": [
+	    {
+		"title": "North America",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"title": "Nordics",
+		"icon": "circle_blue.png"
+	    }
+	]
+    }
+]

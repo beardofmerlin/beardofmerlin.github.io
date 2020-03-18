@@ -1,0 +1,126 @@
+[
+    {
+	"id":"history",
+	"title":"A little history of our world",
+	"description":"<p>Hendoone</p>",
+	"focus_date":"1764-09-01",
+	"initial_zoom":"45",
+	"image_lane_height":50,
+	"events":[
+	    {
+		"id": "usa-currency-act",
+		"title": "The Currency Act",
+		"description": "Lorem ipsum dolor sit amet, 7/11 was a part-time job.",
+		"startdate": "1764-09-01 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-stamp-act",
+		"title": "The Stamp Act",
+		"description": "ahlolo",
+		"startdate": "1765-03-22 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-american-revolutionary-war",
+		"title": "The American Revolutionary War",
+		"description": "",
+		"startdate": "1775-04-19 12",
+		"enddate": "1783-09-03 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "sweden-union-and-security-act",
+		"title": "The Union and Security Act",
+		"description": "Swedish king Gustav III starts issuing his own money by creating a new institution: the Swedish debt office.",
+		"startdate": "1789-04-28 12",
+		"importance": "50",
+		"icon": "circle_blue.png"
+	    },
+	    {
+		"id": "sweden-gustaviii-assassination",
+		"title": "Gustav III is assassinated",
+		"description": "Swedish king Gustav III is assassinated by money-lender Captain Jacob Johan Anckarström, son of Lieutenant Colonel Jacob Johan Anckarström the Elder.",
+		"startdate": "1792-03-16 12",
+		"importance": "50",
+		"icon": "circle_blue.png"
+	    },
+	    {
+		"id": "usa-first-bank-chartered",
+		"title": "First Bank of the US is chartered",
+		"description": "First Bank of the United States is chartered for a term of 20 years",
+		"startdate": "1791-02-25 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-first-bank-term-ends",
+		"title": "First Bank of the US term ends",
+		"description": "The bank's 20-year term ends and the renewal is not approved by congress.",
+		"startdate": "1811-03-04 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-first-bank-recharter-disapproved",
+		"title": "First Bank of the US's recharter is disapproved",
+		"description": "The recharter of First Bank of the United States is not approved by congress.",
+		"startdate": "1811-02-14 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-war-of-1812",
+		"title": "The War of 1812",
+		"description": "The War of 1812 begins with events such as the Little Belt Affair.",
+		"startdate": "1811-05-16",
+		"enddate": "1815-02-17",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-second-bank-chartered",
+		"title": "Second Bank of the US is chartered",
+		"description": "Second Bank of the United States is chartered for a term of 20 years",
+		"startdate": "1816-04-10",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-andrew-jackson-elected",
+		"title": "Andrew Jackson is elected president of the US",
+		"description": "Andrew Jackson is elected president of the US",
+		"startdate": "1828-12-02",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-second-bank-recharter-vetoed",
+		"title": "Second bank of the US's recharter is disapproved",
+		"description": "",
+		"startdate": "1832-07-10",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-andrew-jackson-national-debt",
+		"title": "Andrew Jackson eliminates the national debt",
+		"description": "",
+		"startdate": "1835-01-08",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    },
+	    {
+		"id": "usa-andrew-jackson-assassination-attempt",
+		"title": "Andrew Jackson survives assassination attempt",
+		"description": "",
+		"startdate": "1835-01-30 12",
+		"importance": "50",
+		"icon": "circle_green.png"
+	    }
+	]
+    }
+]
